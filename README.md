@@ -2,7 +2,7 @@
 <h3 align="center">Learning Web-Development, proficient in English and Design.</h3>
 <p align="center"><img align="center" src="https://s13.gifyu.com/images/SCt0q.gif" alt="clouds" width="400px"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firenlf2&" alt="firenlf2" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firenlf2&show_icons=true&locale=en&layout=compact" alt="firenlf2" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firenlf2&show_icons=true&locale=en&layout=compact" alt="firenlf2" /></p>
 
 
 <h4 align="center">-- Languages --</h4>
