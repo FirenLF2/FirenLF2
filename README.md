@@ -25,6 +25,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/haris-alispahi%C4%87-a21a842ab/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/> </a> 
 <a href="https://twitter.com/FirenHagrid" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="Twitter" width="40" height="40"/> </a>
 <a href="https://www.last.fm/user/HagridLow" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lastfm.svg/1200px-Lastfm.svg.png" alt="LastFM" width="40" height="40"/> </a></p>
+<h4 align="center">Completed Projects -> 2</h4>
 
 
 
